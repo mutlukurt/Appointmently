@@ -1,5 +1,9 @@
 # Appointmently - Modern Hair Cutting & Hairstyling Appointment System
 
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-View%20Website-blue?style=for-the-badge&logo=github)](https://mutlukurt.github.io/Appointmently/)
+
+**🌐 [Live Demo](https://mutlukurt.github.io/Appointmently/)**
+
 A fully responsive, modern, and user-friendly appointment booking website for hair cutting and hairstyling services. Built with HTML5, Tailwind CSS, and Vanilla JavaScript with comprehensive mobile support and advanced features.
 
 ## 🎨 Design Features
